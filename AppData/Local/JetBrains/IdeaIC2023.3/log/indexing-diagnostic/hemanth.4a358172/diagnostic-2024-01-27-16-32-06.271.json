@@ -1,0 +1,98 @@
+{
+  "appInfo" : {
+    "build" : "233.14015.106",
+    "buildDate" : "2024-01-25T05:01:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-01-27T11:02:06.2722735Z",
+    "os" : "Windows 11.0",
+    "runtime" : "JetBrains s.r.o. 17.0.9 17.0.9+7-b1087.11"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 7,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "DumbIndexing",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "springbootFirstAppApplication",
+    "times" : {
+      "scanningIds" : [ 0 ],
+      "contentLoadingVisibleTime" : 10486736,
+      "retrievingChangedDuringIndexingFilesTime" : 2665200,
+      "separateApplyingIndexesVisibleTime" : 4405814,
+      "updatingStart" : "2024-01-27T11:02:03.6048457Z",
+      "updatingEnd" : "2024-01-27T11:02:04.1883695Z",
+      "totalWallTimeWithPauses" : 584003500,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "dumbModeStart" : "2024-01-27T11:02:03.6048457Z",
+      "dumbWallTimeWithoutPauses" : 584003500,
+      "dumbWallTimeWithPauses" : 584003500,
+      "totalWallTimeWithoutPauses" : 584003500
+    },
+    "fileCount" : {
+      "numberOfChangedDuringIndexingFiles" : 0,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 3,
+      "numberOfNothingToWriteFiles" : 3
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "UNKNOWN",
+      "partOfTotalProcessingTime" : {
+        "part" : 140932900,
+        "total" : 140932900
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 3058800,
+        "total" : 3058800
+      },
+      "totalNumberOfFiles" : 3,
+      "totalFilesSize" : 342520,
+      "totalProcessingSpeed" : {
+        "totalBytes" : 342520,
+        "totalCpuTime" : 140932900
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'Hemanth' (all roots)",
+        "numberOfFiles" : 3,
+        "totalFilesSize" : 342520,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 140932900,
+          "total" : 140932900
+        }
+      } ]
+    } ],
+    "totalStatsPerBaseLanguage" : [ ],
+    "totalStatsPerIndexer" : [ ],
+    "statisticsOfChangedDuringIndexingFiles" : {
+      "numberOfFiles" : 0,
+      "retrievingTime" : 2665200
+    },
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'Hemanth' (all roots)",
+      "totalNumberOfIndexedFiles" : 3,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 3,
+      "totalIndexingVisibleTime" : 483171900,
+      "contentLoadingVisibleTime" : 10486736,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 4405814
+    }, {
+      "providerName" : "Refreshed files",
+      "totalNumberOfIndexedFiles" : 0,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalNumberOfNothingToWriteFiles" : 0,
+      "totalIndexingVisibleTime" : 0,
+      "contentLoadingVisibleTime" : 0,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "separateApplyingIndexesVisibleTime" : 0
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.0
+  }
+}
